@@ -1,0 +1,1 @@
+# aws-supabase-node
