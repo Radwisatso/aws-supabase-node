@@ -1,0 +1,28 @@
+{
+  "name": "aws-supabase-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radwisatso/aws-supabase-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radwisatso/aws-supabase-node/issues"
+  },
+  "homepage": "https://github.com/Radwisatso/aws-supabase-node#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.0",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.3"
+  }
+}
